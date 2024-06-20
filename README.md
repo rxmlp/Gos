@@ -1,1 +1,1 @@
-# Gos
+# Obtainium for "essential" apps.
