@@ -1,1 +1,2 @@
-# Obtainium for "essential" apps.
+# Gos
+Setup files I use for fresh GrapheneOS
